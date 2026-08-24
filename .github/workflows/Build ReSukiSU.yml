@@ -34,6 +34,7 @@ on:
           - 'oneplus_ace5_pro_b'
           - 'oneplus_ace_6'
           - 'oneplus_pad_2_pro_b'
+          - 'oneplus_pad_2_pro'
           - 'oneplus_pad_3_b'
           - 'oneplus_ace5_ultra_b'
           - 'oneplus_nord_6'
